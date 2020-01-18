@@ -51,7 +51,7 @@ region.selection.pos2: "Second pos set"
 command.region.permission: "You have no permission"
 command.region.available-commands: "Available commands:"
 command.region.command-doesnt-exists: "Commands {@name} doesnt exists"
-command.region.desription: "SRegionProtector commands"
+command.region.description: "SRegionProtector commands"
 
 command.lpos1.in-game: "In game only"
 command.lpos1.permission: "You have no permission"
