@@ -158,6 +158,7 @@ command.remove.all-removed: "All of your regions deleted {@amount}"
 command.remove.description: "remove region"
 
 command.expand.permission: "You have no permission"
+command.remove.description: "Expand region"
 command.expand.usage: "Use /rgexpand [BLOCKS] [UP/DOWN]"
 command.expand.in-game: "In game only"
 command.expand.positions-required: "Select 2 positions first"
